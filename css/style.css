@@ -1,0 +1,29 @@
+
+.box{
+	text-align: center;
+	padding: 10px;
+	background: #5f27cd;
+	color: white;
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px gray;
+	margin-top: 10px;
+}
+.mid{
+	border: 1px solid #ff9f43;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+.mid h2{
+	padding: 20px 10px;
+	background: #ff9f43;
+	border-radius: 5px;
+}
+.mid h4{
+	padding: 10px 5px;
+	background: #ee5253;
+	border-radius: 5px;
+	color: white;
+	width: 95%;
+	margin: 0px auto;
+	text-align: center;
+}
